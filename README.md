@@ -25,7 +25,7 @@ A fully customizable, secure, and intelligent chatbot plugin for WordPress, powe
 
 ## 📷 Screenshots
 
-![Chatbot UI Screenshot](assets/screenshots/chatbot-ui.png)
+![Chatbot UI Screenshot](assets/images/chatbot-demo-img.png)
 
 ## 📁 Installation
 
@@ -51,4 +51,4 @@ MIT License
 
 ---
 
-Crafted with ❤️ by [Kiyas Mohommed](mailto:mohommed.kiyas.2002@gmail.com)
+Crafted with ❤️ by [Kiyas Mohommed](mailto:mohommed.kiyas.2002@gmail.com) | [LinkedIn](www.linkedin.com/in/kiyas-mohommed)

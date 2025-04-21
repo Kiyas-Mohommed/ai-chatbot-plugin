@@ -2,7 +2,7 @@
 
 class curlRequest
 {
-    private $apiKey = '';
+    private $apiKey = 'YOUR_API_KEY_HERE'; // Replace with your actual API key
     private $endpoint;
     private $method;
     private $data;

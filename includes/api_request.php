@@ -55,7 +55,7 @@ class makeRequest
 
         // Run Assistant
         $makeCall = new curlRequest("threads/$threadId/runs", 'POST', [
-            'assistant_id' => ''
+            'assistant_id' => 'YOUR_ASSISTANT_ID_HERE', // Replace with your actual assistant ID
         ]);
         $runResponse = $makeCall->doCall();
 
